@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name":"Producto A",
+        "type": "Type A",
+        "price": 20.5,
+        "bar_code": "9780201145878",
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "name":"Producto B",
+        "type": "Type B",
+        "price": 13.0,
+        "bar_code": "9780201645989",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "name":"Producto C",
+        "type": "Type A",
+        "price": 9.5,
+        "bar_code": "9780201179354",
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "name":"Producto D",
+        "type": "Type B",
+        "price": 5.0,
+        "bar_code": "9780201489323",
+        "stock": 5
+    },
+    {
+        "id": 5,
+        "name":"Producto E",
+        "type": "Type A",
+        "price": 20.5,
+        "bar_code": "9780201172799",                     
+        "stock": 5
+    }
+]
